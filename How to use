@@ -1,4 +1,0 @@
-Start server first using python rest_server.py
-
-
-after that go to new terminal and do curl http://127.0.0.1:5000/books
